@@ -1,7 +1,7 @@
 # Comprehensive Guide to Google NotebookLM
 ### First Edition · March 2026
 
-A practical, open-access guide to Google NotebookLM for **educators, researchers, and students** — covering prompting, sources, Studio tools, sharing, and audience-specific workflows.
+A practical, open-access guide to Google NotebookLM for **educators, researchers, and students** - covering prompting, sources, Studio tools, sharing, and audience-specific workflows.
 
 **Live site:** [zaidalhuda.github.io/notebooklm-guide](https://zaidalhuda.github.io/notebooklm-guide)  
 **Download:** [NotebookLM_Comprehensive_Guide.pdf](./NotebookLM_Comprehensive_Guide.pdf)
@@ -10,7 +10,7 @@ A practical, open-access guide to Google NotebookLM for **educators, researchers
 
 ## Contents
 
-13 chapters across 8 parts — from foundations to advanced customization — plus 5 appendices including a prompt templates library, troubleshooting guide, and quick-start cheat sheet.
+13 chapters across 8 parts - from foundations to advanced customization - plus 5 appendices including a prompt templates library, troubleshooting guide, and quick-start cheat sheet.
 
 ## Author
 
